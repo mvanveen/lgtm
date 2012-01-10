@@ -31,6 +31,6 @@ File structure
         └── lgtm8.png
         
         
-                                    2 directories, 10 files
+    2 directories, 10 files
                                     
 [pavlov]: http://www.psychology.uiowa.edu/faculty/wasserman/glossary/reflex.html
