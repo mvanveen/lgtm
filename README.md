@@ -36,4 +36,4 @@ File structure
                                     
 [pavlov]: http://www.psychology.uiowa.edu/faculty/wasserman/glossary/reflex.html
 
-All non-stolen images created by [Matt Vana](@errantspark)
+All non-stolen images created by [Matt Vana](http://github.com/errantspark)
