@@ -35,3 +35,5 @@ File structure
     2 directories, 10 files
                                     
 [pavlov]: http://www.psychology.uiowa.edu/faculty/wasserman/glossary/reflex.html
+
+All non-stolen images created by [Matt Vana](@errantspark)
