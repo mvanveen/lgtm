@@ -1,6 +1,8 @@
 lgtm
 ====
 
+![](https://github.com/mvanveen/lgtm/blob/master/win/lgtm1.png?raw=true)
+
 1. Short for "looks good to me."
 2. n. A directory of wins and fails used to promote good testing within a group of 
 developers; see `pavlovian trick`.
