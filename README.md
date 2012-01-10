@@ -11,7 +11,8 @@ developers; see [pavlovian response](pavlov).
 
 The lgtm repo is a directory of images which can be integrated into a test 
 suite in order to promote good humor, terror, and good testing behavior 
-within an automated testing system by making the results more fun.
+within an automated testing system by making the results more fun for the 
+developers.
 
 
 File structure
