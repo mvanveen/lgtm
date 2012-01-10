@@ -5,7 +5,7 @@ lgtm
 
 1. Short for "looks good to me."
 2. n. A directory of wins and fails used to promote good testing within a group of 
-developers; see `pavlovian trick`.
+developers; see [pavlovian response](pavlov).
 3. n. A seal of approval.  *e.g.* "I give it my 'lgtm'."
 4. [This](https://github.com/mvanveen/lgtm) repository.
 
@@ -29,6 +29,8 @@ File structure
         ├── lgtm6.png
         ├── lgtm7.png
         └── lgtm8.png
-    
+        
+        
                                     2 directories, 10 files
-
+                                    
+[pavlov]: http://www.psychology.uiowa.edu/faculty/wasserman/glossary/reflex.html
